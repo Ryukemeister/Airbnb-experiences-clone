@@ -1,0 +1,27 @@
+section {
+  padding: 30px 0;
+}
+
+.hero-image-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-img {
+  max-width: 450px;
+}
+
+.online-experiences {
+  padding: 0 0 0 35px;
+}
+
+.hero-title {
+  font-size: 36px;
+  margin: 0 0 5px 0;
+}
+
+.hero-desc {
+  max-width: 350px;
+  margin: 0;
+}
