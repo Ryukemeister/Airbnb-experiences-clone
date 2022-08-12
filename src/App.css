@@ -3,3 +3,8 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
+
+.cards-deck {
+  display: flex;
+  margin: 20px;
+}
