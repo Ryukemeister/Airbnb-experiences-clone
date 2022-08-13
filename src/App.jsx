@@ -25,6 +25,35 @@ function App() {
           price="50"
           img="./src/assets/Cycyling.png"
         />
+        <Card />
+        <Card
+          reviews="30"
+          intro="Learn wedding photography"
+          price="125"
+          img="./src/assets/Wedding.png"
+        />
+        <Card
+          reviews="2"
+          rating="4.8"
+          intro="Group mountain biking"
+          price="50"
+          img="./src/assets/Cycyling.png"
+        />
+        <Card />
+        <Card
+          reviews="30"
+          intro="Learn wedding photography"
+          price="125"
+          img="./src/assets/Wedding.png"
+        />
+        <Card
+          reviews="2"
+          rating="4.8"
+          intro="Group mountain biking"
+          price="50"
+          img="./src/assets/Cycyling.png"
+        />
+        <Card />
       </div>
     </div>
   );
