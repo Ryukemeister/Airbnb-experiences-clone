@@ -4,7 +4,7 @@ body {
   box-sizing: border-box;
 }
 
-.cards-deck {
+.cards-section {
   display: flex;
   flex-wrap: wrap;
   margin: 20px;
